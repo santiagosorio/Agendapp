@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1083883199247",
+    "firebase_url": "https://agendapp-8fc13.firebaseio.com",
+    "project_id": "agendapp-8fc13",
+    "storage_bucket": "agendapp-8fc13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083883199247:android:45c116d79f7628a7",
+        "android_client_info": {
+          "package_name": "beerbear.agendapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083883199247-rd8jr4qr8d1efajv3fm0v7kpg5bv864v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "beerbear.agendapp",
+            "certificate_hash": "3ec62c35e4eaeab67e07d6eb129556ea9742520a"
+          }
+        },
+        {
+          "client_id": "1083883199247-298oiirqvfounkas9aptgaimjt6drmnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYtwqJcOfob76i2QrOglCuOO6SZ0utbqE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083883199247-298oiirqvfounkas9aptgaimjt6drmnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

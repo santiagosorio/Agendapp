@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Agendapp</string>
+    <string name="id">ID</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Telefono</string>
+    <string name="mail">Correo</string>
+    <string name="guardar">Guardar</string>
+    <string name="actualizarr">Actualizar</string>
+    <string name="borrar">Borrar</string>
+    <string name="buscar">Buscar</string>
+</resources>
